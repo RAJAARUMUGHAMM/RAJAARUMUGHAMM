@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏏I'm currently working on a Horror Game<br>🕹️I'm looking to collaborate with Game Developers<br>🪩I'm looking for help with UNITY3D<br>🧑‍💻I'm currently learning C#<br>🎮Ask me about Games<br>📖Fun fact I am a Student
+🏏I'm currently working on a Racing Game<br>🕹️I'm looking to collaborate with Game Developers<br>🪩I'm looking for help with UNITY3D<br>🧑‍💻I'm currently learning C#<br>🎮Ask me about Games<br>📖Fun fact I am a Game Developer
 
 
 ## 🌐 Socials:
